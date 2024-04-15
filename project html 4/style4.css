@@ -1,0 +1,120 @@
+box {
+    width: 300px;
+    border: 20px solid rgb(19, 157, 21);
+    padding: 50px;
+    margin: 20px;
+    margin-top: -9px;
+    margin-left: 1070px;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    position: absolute;
+
+}
+
+.box2 {
+    width: 550px;
+    border: 15px solid rgb(19, 157, 21);
+    padding: 70px;
+    margin: 30px;
+    margin-top: 630px;
+    margin-left: -15px;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    position: absolute;
+
+}
+
+img {
+    width: 350px;
+    height: 550px;
+    padding-top: 60px;
+    padding-left: 900px;
+    position: absolute;
+}
+
+h1 {
+
+    color: green;
+    position: absolute;
+    padding-left: 570px;
+    padding-top: 110px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: rgb(139, 179, 142);
+    position: absolute;
+    padding-left: 500px;
+    padding-top: 200px;
+    text-align: right;
+
+}
+
+.container {
+    position: absolute;
+    padding-left: 165px;
+    padding-top: 330px;
+    text-align: right;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 4px;
+    border-color: green;
+    background-color: rgb(139, 179, 142);
+}
+
+button {
+    color: white;
+    background-color: green;
+    border: none;
+    height: 34px;
+    width: 100px;
+}
+
+textarea {
+    width: 600px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 6px;
+    border-color: green;
+    background-color: rgb(205, 205, 210);
+    display: inline-block;
+
+}
+
+.icw {
+    height: 70px;
+    width: 70px;
+    padding-right: 280px;
+}
+
+.icbw {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    border: 7px;
+}
+
+.icon-bar a {
+    float: left;
+    /* Float links side by side */
+    text-align: center;
+    /* Center-align text */
+    width: 20%;
+    /* Equal width (5 icons with 20% width each = 100%) */
+    padding: 12px 0;
+    /* Some top and bottom padding */
+    transition: all 0.3s ease;
+    /* Add transition for hover effects */
+    color: white;
+    /* White text color */
+    font-size: 36px;
+    /* Increased font size */
+}
